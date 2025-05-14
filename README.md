@@ -17,7 +17,7 @@ The Home Price Prediction App is a web application built using Flask for the bac
 ## Technologies Used
 
 - **Backend**: Flask (Python)
-- **Frontend**: HTML, CSS, JavaScript, jQuery
+- **Frontend**: HTML, CSS, JavaScript.
 - **Machine Learning**: Python, scikit-learn (for the machine learning model)
 - **APIs**: Flask for handling API requests
 - **Version Control**: Git
