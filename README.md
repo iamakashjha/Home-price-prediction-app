@@ -1,6 +1,8 @@
 
 # Home Price Prediction App
 
+**Link:** - [Visit Application](https://iamakashjha-home-price-prediction-app-app-sjlups.streamlit.app/)
+
 ## Overview
 
 The Home Price Prediction App is a web application built using Flask for the backend and HTML, CSS, and JavaScript for the frontend. The app helps users predict the price of a home based on various parameters like area (in square feet), number of bedrooms (BHK), number of bathrooms, and location. The app uses machine learning models to provide estimated prices based on the input data.
@@ -83,7 +85,7 @@ Akash Jha
 ## Links
 
 - [LinkedIn](https://www.linkedin.com/in/iamakashjha1/)
-- [Project Demo](#) <!-- Replace # with your demo link if available -->
+- [Project Demo](https://iamakashjha-home-price-prediction-app-app-sjlups.streamlit.app/)
 
 ## Contact
 
